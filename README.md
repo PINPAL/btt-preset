@@ -10,13 +10,15 @@ The preset also includes an optional set of controls for specific apps.
 
 # ⌘ Quick Controls
 Hold down the `⌘ Command` key to access a number of common settings.
+<br/>
+<br/>
 ![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/Controls.png)
 <br/>
 <br/>
 Deeper settings can be accessed by tapping the expand button the respective group. These settings will remain open even if you release the `⌘ Command` key, this allows easier use of sliders etc.
 <br/>
 <br/>
-![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/QuickControls.png)
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/.png)
 <br/>
 <br/>
 <br/>
