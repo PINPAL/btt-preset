@@ -18,7 +18,7 @@ Hold down the `⌘ Command` key to access a number of common settings.
 Deeper settings can be accessed by tapping the expand button the respective group. These settings will remain open even if you release the `⌘ Command` key, this allows easier use of sliders etc.
 <br/>
 <br/>
-![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/.png)
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/QuickControls.png)
 <br/>
 <br/>
 <br/>
