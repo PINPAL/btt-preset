@@ -43,3 +43,58 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 <br/>
 <br/>
+
+# Finder
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/finder.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# iTerm
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/iterm.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# BetterTouchTool
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/btt.png)
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# iTerm (VIM)
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim1.png)
+<br/>
+<br/>
+NerdTree Support
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-nerd.png)
+<br/>
+<br/>
+Language Specific Support & Dynamic Color based on editor mode: 
+<br/>
+<br/>
+**Normal Mode** 
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-latex.png)
+**Insert Mode** 
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim2.png)
+**Visual Mode** 
+<br/>
+<br/>
+![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim3.png)
+
