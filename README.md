@@ -82,19 +82,17 @@ NerdTree Support
 ![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-nerd.png)
 <br/>
 <br/>
-Language Specific Support & Dynamic Color based on editor mode: 
+## Language Specific Support & Dynamic Color based on editor mode: 
 <br/>
 <br/>
 **Normal Mode** 
-<br/>
-<br/>
 ![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-latex.png)
+<br/>
+<br/>
 **Insert Mode** 
-<br/>
-<br/>
 ![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim2.png)
+<br/>
+<br/>
 **Visual Mode** 
-<br/>
-<br/>
 ![Preview](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim3.png)
 
