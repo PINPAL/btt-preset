@@ -45,9 +45,6 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 
 # Finder
-<br/>
-<br/>
-
 ![Finder](images/other/finder.png)
 
 <br/>
@@ -56,9 +53,6 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 
 # iTerm
-<br/>
-<br/>
-
 ![iTerm](images/other/iterm.png)
 
 <br/>
@@ -67,9 +61,6 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 
 # BetterTouchTool
-<br/>
-<br/>
-
 ![BetterTouchTool](images/other/btt.png)
 
 <br/>
@@ -78,35 +69,26 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 
 # iTerm (VIM)
-<br/>
-
 ![Vim](images/other/vim1.png)
-
-<br/>
 <br/>
 NerdTree Support
 <br/>
-
 ![VimNerdTree](images/other/vim-nerd.png)
+<br/>
+<br/>
 
-<br/>
-<br/>
 ### Language Specific Support & Dynamic Color based on editor mode:
-<br/>
 <br/>
 
 **Normal Mode**
-<br/>
 ![VimNormalMode](images/other/vim-latex.png)
 <br/>
 <br/>
 
 **Insert Mode**
-<br/>
 ![VimInsetMode](images/other/vim2.png)
 <br/>
 <br/>
 
 **Visual Mode**
-<br/>
 ![VimVisualMode](images/other/vim3.png)
