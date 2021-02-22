@@ -57,20 +57,17 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 # BetterTouchTool
 ![BetterTouchTool](images/other/btt.png)
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 # iTerm (VIM)
 ![Vim](images/other/vim1.png)
 <br/>
+
 NerdTree Support
 <br/>
 ![VimNerdTree](images/other/vim-nerd.png)
@@ -78,7 +75,6 @@ NerdTree Support
 <br/>
 
 ### Language Specific Support & Dynamic Color based on editor mode:
-<br/>
 
 **Normal Mode**
 ![VimNormalMode](images/other/vim-latex.png)
