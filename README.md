@@ -47,7 +47,7 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 # Finder
 <br/>
 <br/>
-![Finder](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/finder.png)
+![Finder](images/other/finder.png)
 <br/>
 <br/>
 <br/>
@@ -56,7 +56,7 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 # iTerm
 <br/>
 <br/>
-![iTerm](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/iterm.png)
+![iTerm](images/other/iterm.png)
 <br/>
 <br/>
 <br/>
@@ -65,18 +65,18 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 # BetterTouchTool
 <br/>
 <br/>
-![BetterTouchTool](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/btt.png)
+![BetterTouchTool](images/other/btt.png)
 <br/>
 <br/>
 <br/>
 <br/>
 
 # iTerm (VIM)
-![Vim](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim1.png)
+![Vim](images/other/vim1.png)
 <br/>
 <br/>
 NerdTree Support
-![VimNerdTree](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-nerd.png)
+![VimNerdTree](images/other/vim-nerd.png)
 <br/>
 <br/>
 ### Language Specific Support & Dynamic Color based on editor mode: 
@@ -84,14 +84,14 @@ NerdTree Support
 <br/>
 **Normal Mode** 
 <br/>
-![VimNormalMode](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim-latex.png)
+![VimNormalMode](images/other/vim-latex.png)
 <br/>
 <br/>
 **Insert Mode** 
 <br/>
-![VimInsetMode](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim2.png)
+![VimInsetMode](images/other/vim2.png)
 <br/>
 <br/>
 **Visual Mode** 
 <br/>
-![VimVisualMode](https://raw.githubusercontent.com/PINPAL/btt-preset/master/images/other/vim3.png)
+![VimVisualMode](images/other/vim3.png)
