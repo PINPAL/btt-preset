@@ -44,27 +44,27 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 <br/>
 
-# Finder
+# App Specific Support
+
+## Finder
 ![Finder](images/other/finder.png)
 
 <br/>
 <br/>
-<br/>
-<br/>
 
-# iTerm
+## iTerm
 ![iTerm](images/other/iterm.png)
 
 <br/>
 <br/>
 
-# BetterTouchTool
+## BetterTouchTool
 ![BetterTouchTool](images/other/btt.png)
 
 <br/>
 <br/>
 
-# iTerm (VIM)
+## iTerm (VIM)
 ![Vim](images/other/vim1.png)
 <br/>
 
@@ -79,11 +79,9 @@ NerdTree Support
 **Normal Mode**
 ![VimNormalMode](images/other/vim-latex.png)
 <br/>
-<br/>
 
 **Insert Mode**
 ![VimInsetMode](images/other/vim2.png)
-<br/>
 <br/>
 
 **Visual Mode**
