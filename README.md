@@ -72,6 +72,7 @@ Hold down the `⌥ Option` key to access recent clipboard icons and a button to 
 <br/>
 
 # iTerm (VIM)
+<br/>
 ![Vim](images/other/vim1.png)
 <br/>
 <br/>
@@ -82,16 +83,19 @@ NerdTree Support
 ### Language Specific Support & Dynamic Color based on editor mode: 
 <br/>
 <br/>
-**Normal Mode** 
+
+** Normal Mode ** 
 <br/>
 ![VimNormalMode](images/other/vim-latex.png)
 <br/>
 <br/>
-**Insert Mode** 
+
+** Insert Mode ** 
 <br/>
 ![VimInsetMode](images/other/vim2.png)
 <br/>
 <br/>
-**Visual Mode** 
+
+** Visual Mode ** 
 <br/>
 ![VimVisualMode](images/other/vim3.png)
